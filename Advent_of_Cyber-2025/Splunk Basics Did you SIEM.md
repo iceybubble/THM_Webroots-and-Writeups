@@ -1,5 +1,5 @@
-Room Name: Splunk Basics - Did you SIEM?
-Room Link: https://tryhackme.com/room/splunkforloganalysis-aoc2025-x8fj2k4rqp
+-Room Name: Splunk Basics - Did you SIEM?
+-Room Link: https://tryhackme.com/room/splunkforloganalysis-aoc2025-x8fj2k4rqp
 
 ```
 What is the attacker IP found attacking and compromising the web server?

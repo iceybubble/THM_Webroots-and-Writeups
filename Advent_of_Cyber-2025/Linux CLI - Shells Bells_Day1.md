@@ -1,4 +1,4 @@
-Room Link: https://tryhackme.com/room/linuxcli-aoc2025-o1fpqkvxti
+-Room Link: https://tryhackme.com/room/linuxcli-aoc2025-o1fpqkvxti
 
 ```
 Which CLI command would you use to list a directory?

@@ -1,5 +1,5 @@
-Room Name: AI in Security - old sAInt nick
-Room Link: https://tryhackme.com/room/AIforcyber-aoc2025-y9wWQ1zRgB
+-Room Name: AI in Security - old sAInt nick
+-Room Link: https://tryhackme.com/room/AIforcyber-aoc2025-y9wWQ1zRgB
 
 ```
 Complete the AI showcase by progressing through all of the stages. What is the flag presented to you?
