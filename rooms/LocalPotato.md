@@ -1,0 +1,7 @@
+Room Name: LocalPotato
+Room Link: https://tryhackme.com/room/localpotato
+
+```
+Elevate your privileges on the system to get an administrative console. What is the value of the flag in C:\users\administrator\desktop\flag.txt?
+THM{local_potatoes_best_potatoes}
+```
