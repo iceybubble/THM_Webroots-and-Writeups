@@ -1,0 +1,19 @@
+Room Name: Atlas
+Room Link: https://tryhackme.com/room/atlas
+
+```
+With the Nmap default port range, you should find that two ports are open. What port numbers are these?
+
+Submit the answer as a comma-separated list from low to high, e.g. 80,443.
+3389,8080
+```
+
+```
+What service does Nmap think is running on the higher of the two ports?
+http-proxy
+```
+
+```
+What is the Administrator account's NTLM password hash?
+c16444961f67af7eea7e420b65c8c3eb
+```
