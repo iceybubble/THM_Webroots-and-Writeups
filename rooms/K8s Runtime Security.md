@@ -1,0 +1,92 @@
+Room Name: K8s Runtime Security
+Room Link: https://tryhackme.com/room/k8sruntimesecurity
+
+```
+In which request stage will the response headers have been sent out but not the response body?
+ResponseStarted
+```
+
+```
+Which level will capture the most data?
+RequestResponse
+```
+
+```
+What field must be contained in an audit policy for it to be valid?
+rule
+```
+
+```
+At what level is it recommended to log sensitive resources (like secrets)? 
+Metadata
+```
+
+```
+What percentage of containers live less than 5 minutes in 2024 according to the annual report provided in this task?
+70
+```
+
+```
+What security concept, covered in this task, is a communication that takes place between a running process and the kernel?
+System Calls
+```
+
+```
+Which security runtime enforcement tool works by filtering system calls, only allowing processed to perform certain calls to already open file descriptors?
+Seccomp
+```
+
+```
+Falco can gain deep visibility into a Kubernetes runtime environment by analysing events from various sources. Which source (covered in task 3) is available in Kubernetes?
+Audit Logs
+```
+
+```
+What allows user programs to run securely in a protected environment within the kernel space?
+eBPF
+```
+
+```
+Enriched events are compared against _____, which can either be included by default or user-defined. 
+rules
+```
+
+```
+When defining a Falco rule condition, what snippet could be used to match bash processes?
+proc.name = bash
+```
+
+```
+What can be used to reference a collection of items in a condition?
+Lists
+```
+
+```
+What can be used to abbreviate conditions which are frequently used? 
+Macros
+```
+
+```
+Which tool covered in this task can be used as a visualisation layer and allows collected data to be visualised as charts and graphs?
+Grafana
+```
+
+```
+Which tool covered in this task collects and stores time series data?
+Prometheus
+```
+
+```
+Which tool covered in this task is a companion project that can act as a forwarder for Falco?
+Falcosidekick
+```
+
+```
+What is the Base64 Encoded Custom Rule?
+ICAgIC0gcnVsZTogRGV0ZWN0IFVzYWdlIG9mIEN1cmwKICAgICAgZGVzYzogRGV0ZWN0cyB3aGVuIHRoZSBjdXJsIGNvbW1hbmQgaXMgdXNlZCBpbnNpZGUgYSBjb2
+```
+
+```
+What is the THM flag value?
+THM{th3_c4k3_1s_a_l13}
+```
