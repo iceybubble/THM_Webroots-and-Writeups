@@ -21,3 +21,12 @@ What IP address sent the most amount of traffic during the packet capture?
 
 What was the most frequent protocol?
 ICMP
+
+Using crunch and hydra, find the PIN code to access the control system and unlock the door. What is the flag?
+THM{pin-code-brute-force}
+
+What is the correct username and password combination? Format username:password
+isaias:Happiness
+
+What is the flag?
+THM{m3rrY4nt4rct1crAft$}
