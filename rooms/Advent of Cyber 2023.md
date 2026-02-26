@@ -149,3 +149,27 @@ THM{b06674fedd8dfc28ca75176d3d51409e}
 
 What is the flag you receive on the homepage after restoring the website?
 THM{4cbc043631e322450bc55b42c}
+
+What is the hash of the vulnerable user?
+03E805D8A8C5AA435FB48832DAD620E3
+
+What is the content of flag.txt on the Administrator Desktop?
+THM{XMAS_IS_SAFE}
+
+What is the default port for Jenkins?
+8080
+
+What is the password of the user tracy?
+13_1n_33
+
+What's the root flag?
+ezRo0tW1thoutDiD
+
+What is the error message when you login as tracy again and try sudo -l after its removal from the sudoers group?
+Sorry, user tracy may not run sudo on Jenkins.
+
+What's the SSH flag?
+Ne3d2SecureTh1sSecureSh31l
+
+What's the Jenkins flag?
+FullTrust_has_n0_Place1nS3cur1ty
