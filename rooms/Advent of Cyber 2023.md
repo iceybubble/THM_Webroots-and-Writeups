@@ -324,3 +324,49 @@ ReallyNotGonnaGuessThis
 What is the value of the flag that you receive when you successfully authenticate to the HQ Admin portal?
 THM{Captcha.Can't.Hold.Me.Back}
 
+Which version of SiLK is installed on the VM?
+3.19.1
+
+What is the size of the flows in the count records?
+11774
+
+What is the start time (sTime) of the sixth record in the file?
+2023/12/05T09:33:07.755
+
+What is the destination port of the sixth UDP record?
+49950
+
+What is the record value (%) of the dport 53?
+35.332088
+
+What is the number of bytes transmitted by the top talker on the network?
+735229
+
+What is the sTime value of the first DNS record going to port 53?
+2023/12/08T04:28:44.825
+
+What is the IP address of the host that the C2 potentially controls? (In defanged format: 123[.]456[.]789[.]0 )
+175[.]175[.]173[.]221
+
+Which IP address is suspected to be the flood attacker? (In defanged format: 123[.]456[.]789[.]0 )
+175[.]215[.]236[.]223
+
+What is the sent SYN packet's number of records?
+1658
+
+What is the name of the service that respawns the process after killing it?
+a-unkillable.service
+
+What is the path from where the process and service were running?
+/etc/systemd/system
+
+The malware prints a taunting message. When is the message shown? Choose from the options below.
+
+1. Randomly
+
+2. After a set interval
+
+3. On process termination
+
+4. None of the above
+4
