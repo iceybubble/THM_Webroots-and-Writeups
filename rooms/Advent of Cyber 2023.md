@@ -291,75 +291,122 @@ What is the value of the flag you received after achieving more than 90% accurac
 THM{Neural.Networks.are.Neat!}
 ```
 
+```
 What is the key first step in the Machine Learning pipeline?
 data collection
+```
 
+```
 Which data preprocessing feature is used to create new features or modify existing ones to improve model performance?
 feature engineering
+```
 
+```
 During the data splitting step, 20% of the dataset was split for testing. What is the percentage weightage avg of precision of spam detection?
 0.98
+```
 
+```
 How many of the test emails are marked as spam?
 3
+```
 
+```
 One of the emails that is detected as spam contains a secret code. What is the code?
 I_Hate_Best_FestiVal
+```
 
+```
 What key process of training a neural network is taken care of by using a CNN?
 Feature Extraction
+```
 
+```
 What is the name of the process used in the CNN to extract the features?
 Convolution
+```
 
+```
 What is the name of the process used to reduce the features down?
 Pooling
+```
 
+```
 What off-the-shelf CNN did we use to train a CAPTCHA-cracking OCR model?
 Attention OCR
+```
 
+```
 What is the password that McGreedy set on the HQ Admin portal?
 ReallyNotGonnaGuessThis
+```
 
+```
 What is the value of the flag that you receive when you successfully authenticate to the HQ Admin portal?
 THM{Captcha.Can't.Hold.Me.Back}
+```
 
+```
 Which version of SiLK is installed on the VM?
 3.19.1
+```
 
+```
 What is the size of the flows in the count records?
 11774
+```
 
+```
 What is the start time (sTime) of the sixth record in the file?
 2023/12/05T09:33:07.755
+```
 
+```
 What is the destination port of the sixth UDP record?
 49950
+```
 
+```
 What is the record value (%) of the dport 53?
 35.332088
+```
 
+```
 What is the number of bytes transmitted by the top talker on the network?
 735229
+```
 
+```
 What is the sTime value of the first DNS record going to port 53?
 2023/12/08T04:28:44.825
+```
 
+```
 What is the IP address of the host that the C2 potentially controls? (In defanged format: 123[.]456[.]789[.]0 )
 175[.]175[.]173[.]221
+```
 
+```
 Which IP address is suspected to be the flood attacker? (In defanged format: 123[.]456[.]789[.]0 )
 175[.]215[.]236[.]223
+```
 
+```
 What is the sent SYN packet's number of records?
 1658
+```
 
+```
 What is the name of the service that respawns the process after killing it?
 a-unkillable.service
+```
 
+```
 What is the path from where the process and service were running?
 /etc/systemd/system
+```
 
+```
 The malware prints a taunting message. When is the message shown? Choose from the options below.
 
 1. Randomly
@@ -370,89 +417,146 @@ The malware prints a taunting message. When is the message shown? Choose from th
 
 4. None of the above
 4
+```
 
+```
 What is the exposed password that we find from the bash history output?
 NEhX4VSrN7sV
+```
 
+```
 What is the PID of the miner process that we find?
 10280
+```
 
+```
 What is the MD5 hash of the miner process?
 153a5c8efe4aa3be240e5dc645480dee
+```
 
+```
 What is the MD5 hash of the mysqlserver process?
 c586e774bb2aa17819d7faae18dad7d1
+```
 
+```
 Use the command strings extracted/miner.<PID from question 2>.0x400000 | grep http://. What is the suspicious URL? (Fully defang the URL using CyberChef)
 hxxp[://]mcgreedysecretc2[.]thm
+```
 
+```
 After reading the elfie file, what location is the mysqlserver process dropped in on the file system?
 /var/tmp/.system-python3.8-Updates/mysqlserver
+```
 
+```
 What is the handle of the developer responsible for the merge changes?
 @badsecops
+```
 
+```
 What port is the defaced calendar site server running on?
 9081
+```
 
+```
 What server is the malicious server running on?
 Apache
+```
 
+```
 What message did the Frostlings leave on the defaced site?
 FROSTLINGS RULE
+```
 
+```
 What is the commit ID of the original code for the Advent Calendar site?
 986b7407
+```
 
+```
 What Linux kernel version is the Jenkins node?
 5.4.0-1029-aws
+```
 
+```
 What value is found from /var/lib/jenkins/secret.key?
 90e748eafdd2af4746a5ef7941e63272f24f1e33a2882f614ebfa6742e772ba7
+```
 
+```
 Is SSRF the process in which the attacker tricks the server into loading only external resources (yea/nay)?
 nay
+```
 
+```
 What is the C2 version?
 1.1
+```
 
+```
 What is the username for accessing the C2 panel?
 mcgreedy
+```
 
+```
 What is the flag value after accessing the C2 panel?
 THM{EXPLOITED_31001}
+```
 
+```
 What is the flag value after stopping the data exfiltration from the McSkidy computer?
 THM{AGENT_REMOVED_1001}
+```
 
+```
 What is the name of the AD authentication protocol that makes use of tickets?
 Kerberos
+```
 
+```
 What is the name of the AD authentication protocol that makes use of the NTLM hash?
 NetNTLM
+```
 
+```
 What is the name of the tool that can intercept these authentication challenges?
 Responder
+```
 
+```
 What is the password that McGreedy set for the Administrator account?
 GreedyGrabber1@
+```
 
+```
 What is the value of the flag that is placed on the Administrator’s desktop?
 THM{Greedy.Greedy.McNot.So.Great.Stealy}
+```
 
+```
 One of the photos contains a flag. What is it?
 THM{DIGITAL_FORENSICS}
+```
 
+```
 What name does Tracy use to save Detective Frost-eau’s phone number?
 Detective Carrot-Nose
+```
 
+```
 One SMS exchanged with Van Sprinkles contains a password. What is it?
 chee7AQu
+```
 
+```
 What is the final flag?
 THM{YouMeddlingKids}
+```
 
+```
 What flag did you get after completing the survey? 
 
 Note - as the event is now closed, we also closed the survey. Please use the following flag to solve this question: THM{SurveyComplete_and_HolidaysSaved}
 THM{SurveyComplete_and_HolidaysSaved}
+```
