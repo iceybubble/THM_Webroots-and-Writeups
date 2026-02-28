@@ -404,3 +404,23 @@ FROSTLINGS RULE
 What is the commit ID of the original code for the Advent Calendar site?
 986b7407
 
+What Linux kernel version is the Jenkins node?
+5.4.0-1029-aws
+
+What value is found from /var/lib/jenkins/secret.key?
+90e748eafdd2af4746a5ef7941e63272f24f1e33a2882f614ebfa6742e772ba7
+
+Is SSRF the process in which the attacker tricks the server into loading only external resources (yea/nay)?
+nay
+
+What is the C2 version?
+1.1
+
+What is the username for accessing the C2 panel?
+mcgreedy
+
+What is the flag value after accessing the C2 panel?
+THM{EXPLOITED_31001}
+
+What is the flag value after stopping the data exfiltration from the McSkidy computer?
+THM{AGENT_REMOVED_1001}
