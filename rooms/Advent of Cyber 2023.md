@@ -424,3 +424,35 @@ THM{EXPLOITED_31001}
 
 What is the flag value after stopping the data exfiltration from the McSkidy computer?
 THM{AGENT_REMOVED_1001}
+
+What is the name of the AD authentication protocol that makes use of tickets?
+Kerberos
+
+What is the name of the AD authentication protocol that makes use of the NTLM hash?
+NetNTLM
+
+What is the name of the tool that can intercept these authentication challenges?
+Responder
+
+What is the password that McGreedy set for the Administrator account?
+GreedyGrabber1@
+
+What is the value of the flag that is placed on the Administrator’s desktop?
+THM{Greedy.Greedy.McNot.So.Great.Stealy}
+
+One of the photos contains a flag. What is it?
+THM{DIGITAL_FORENSICS}
+
+What name does Tracy use to save Detective Frost-eau’s phone number?
+Detective Carrot-Nose
+
+One SMS exchanged with Van Sprinkles contains a password. What is it?
+chee7AQu
+
+What is the final flag?
+THM{YouMeddlingKids}
+
+What flag did you get after completing the survey? 
+
+Note - as the event is now closed, we also closed the survey. Please use the following flag to solve this question: THM{SurveyComplete_and_HolidaysSaved}
+THM{SurveyComplete_and_HolidaysSaved}
