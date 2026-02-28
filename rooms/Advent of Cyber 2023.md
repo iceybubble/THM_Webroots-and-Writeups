@@ -370,3 +370,37 @@ The malware prints a taunting message. When is the message shown? Choose from th
 
 4. None of the above
 4
+
+What is the exposed password that we find from the bash history output?
+NEhX4VSrN7sV
+
+What is the PID of the miner process that we find?
+10280
+
+What is the MD5 hash of the miner process?
+153a5c8efe4aa3be240e5dc645480dee
+
+What is the MD5 hash of the mysqlserver process?
+c586e774bb2aa17819d7faae18dad7d1
+
+Use the command strings extracted/miner.<PID from question 2>.0x400000 | grep http://. What is the suspicious URL? (Fully defang the URL using CyberChef)
+hxxp[://]mcgreedysecretc2[.]thm
+
+After reading the elfie file, what location is the mysqlserver process dropped in on the file system?
+/var/tmp/.system-python3.8-Updates/mysqlserver
+
+What is the handle of the developer responsible for the merge changes?
+@badsecops
+
+What port is the defaced calendar site server running on?
+9081
+
+What server is the malicious server running on?
+Apache
+
+What message did the Frostlings leave on the defaced site?
+FROSTLINGS RULE
+
+What is the commit ID of the original code for the Advent Calendar site?
+986b7407
+
