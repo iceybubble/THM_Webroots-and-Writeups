@@ -122,3 +122,25 @@ fluffy/champ24
 
 What is the flag value after transferring over $2000 from Glitch's account?
 THM{WON_THE_RACE_007}
+
+What is the value of Flag1?
+THM{dude_where_is_my_car}
+
+What is the value of Flag2?
+THM{my_name_is_malware._mayor_malware}
+
+What is the name of the CA that has signed the Gift Scheduler certificate?
+THM
+
+Look inside the POST requests in the HTTP history. What is the password for the snowballelf account?
+c4rrotn0s3
+
+Use the credentials for any of the elves to authenticate to the Gift Scheduler website. What is the flag shown on the elves’ scheduling page?
+THM{AoC-3lf0nth3Sh3lf}
+
+What is the password for Marta May Ware’s account?
+H0llyJ0llySOCMAS!
+
+Mayor Malware finally succeeded in his evil intent: with Marta May Ware’s username and password, he can finally access the administrative console for the Gift Scheduler. G-Day is cancelled!
+What is the flag shown on the admin page?
+THM{AoC-h0wt0ru1nG1ftD4y}
