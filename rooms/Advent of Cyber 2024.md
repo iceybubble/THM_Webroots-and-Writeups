@@ -56,3 +56,15 @@ Wareville_Ransomware.txt
 
 What is the flag found from this Atomic Test?
 THM{R2xpdGNoIGlzIG5vdCB0aGUgZW5lbXk=}
+
+What is the flag discovered after navigating through the wishes?
+THM{Brut3f0rc1n6_mY_w4y}
+
+What is the flag seen on the possible proof of sabotage?
+THM{m4y0r_m4lw4r3_b4ckd00rs}
+
+What is the flag displayed in the popup window after the EDR detects the malware?
+THM{GlitchWasHere}
+
+What is the flag found in the malstrings.txt document after running floss.exe, and opening the file in a text editor?
+THM{HiddenClue}
