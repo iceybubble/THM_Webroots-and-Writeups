@@ -99,3 +99,11 @@ What is the bank account number owned by Mayor Malware?
 What is the flag value once Glitch gets reverse shell on the digital vault using port 4444? Note: The flag may take around a minute to appear in the C:\Users\glitch\Desktop directory. You can view the content of the flag by using the command type C:\Users\glitch\Desktop\flag.txt.
 AOC{GOT _MY_ACCESS_B@CK007}
 
+What does GRC stand for?
+Governance, Risk, and Compliance
+
+What is the flag you receive after performing the risk assessment?
+THM{R15K_M4N4G3D}
+
+What is the flag value inside the flag.txt file that’s located on the Administrator’s desktop?
+THM{PHISHING_CHRISTMAS}
