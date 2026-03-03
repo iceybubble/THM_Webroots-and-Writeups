@@ -68,3 +68,34 @@ THM{GlitchWasHere}
 
 What is the flag found in the malstrings.txt document after running floss.exe, and opening the file in a text editor?
 THM{HiddenClue}
+
+What is the other activity made by the user glitch aside from the ListObject action?
+PutObject
+
+What is the source IP related to the S3 bucket activities of the user glitch?
+53.94.201.69
+
+Based on the eventSource field, what AWS service generates the ConsoleLogin event?
+signin.amazonaws.com
+
+When did the anomalous user trigger the ConsoleLogin event?
+2024-11-28T15:21:54Z
+
+What was the name of the user that was created by the mcskidy user?
+glitch
+
+What type of access was assigned to the anomalous user?
+AdministratorAccess
+
+Which IP does Mayor Malware typically use to log into AWS?
+53.94.201.69
+
+What is McSkidy's actual IP address?
+31.210.15.79
+
+What is the bank account number owned by Mayor Malware?
+2394 6912 7723 1294
+
+What is the flag value once Glitch gets reverse shell on the digital vault using port 4444? Note: The flag may take around a minute to appear in the C:\Users\glitch\Desktop directory. You can view the content of the flag by using the command type C:\Users\glitch\Desktop\flag.txt.
+AOC{GOT _MY_ACCESS_B@CK007}
+
