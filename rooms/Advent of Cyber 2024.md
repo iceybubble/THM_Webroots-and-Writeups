@@ -144,3 +144,32 @@ H0llyJ0llySOCMAS!
 Mayor Malware finally succeeded in his evil intent: with Marta May Ware’s username and password, he can finally access the administrative console for the Gift Scheduler. G-Day is cancelled!
 What is the flag shown on the admin page?
 THM{AoC-h0wt0ru1nG1ftD4y}
+
+On what day was Glitch_Malware last logged in?
+
+Answer format: DD/MM/YYYY
+07/11/2024
+
+What event ID shows the login of the Glitch_Malware user?
+4624
+
+Read the PowerShell history of the Administrator account. What was the command that was used to enumerate Active Directory users?
+Get-ADUser -Filter * -Properties MemberOf | Select-Object Name
+
+Look in the PowerShell log file located in Application and Services Logs -> Windows PowerShell. What was Glitch_Malware's set password?
+SuperSecretP@ssw0rd!
+
+Review the Group Policy Objects present on the machine. What is the name of the installed GPO?
+Malicious GPO - Glitch_Malware Persistence
+
+What is the password for backupware that was leaked?
+R3c0v3r_s3cr3ts!
+
+What is the group ID of the Secret Recovery Group?
+7d96660a-02e1-4112-9515-1762d0cb66b7
+
+What is the name of the vault secret?
+aoc2024
+
+What are the contents of the secret stored in the vault?
+WhereIsMyMind1999
