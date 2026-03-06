@@ -182,3 +182,27 @@ rij5uu4gt204q0d3eb7jj86okt
 
 What is the name of the attacker found in the logs, who deleted the CCTV footage?
 mmalware
+
+What is the OTP flag?
+THM{one_tough_password}
+
+What is the billionaire item flag?
+THM{credit_card_undeclined}
+
+What is the biometric flag?
+THM{dont_smash_your_keyboard}
+
+What was the first message the payload sent to Mayor Malware’s C2?
+I am in Mayor!
+
+What was the IP address of the C2 server?
+10.10.123.224
+
+What was the command sent by the C2 server to the target machine?
+whoami
+
+What was the filename of the critical file exfiltrated by the C2 server?
+credentials.txt
+
+What secret message was sent back to the C2 in an encrypted format through beacons?
+THM_Secret_101
