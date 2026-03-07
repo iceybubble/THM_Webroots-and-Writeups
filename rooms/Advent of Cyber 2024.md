@@ -206,3 +206,40 @@ credentials.txt
 
 What secret message was sent back to the C2 in an encrypted format through beacons?
 THM_Secret_101
+
+What is the function name that downloads and executes files in the WarevilleApp.exe?
+DownloadAndExecuteFile
+
+Once you execute the WarevilleApp.exe, it downloads another binary to the Downloads folder. What is the name of the binary?
+explorer.exe
+
+What domain name is the one from where the file is downloaded after running WarevilleApp.exe?
+mayorc2.thm
+
+The stage 2 binary is executed automatically and creates a zip file comprising the victim's computer data; what is the name of the zip file?
+CollectedFiles.zip
+
+What is the name of the C2 server where the stage 2 binary tries to upload files?
+anonymousc2.thm
+
+What is the name of the webshell that was used by Mayor Malware?
+shelly.php
+
+What file did Mayor Malware read from the pod?
+db.php
+
+What tool did Mayor Malware search for that could be used to create a remote connection from the pod?
+nc
+
+What IP connected to the docker registry that was unexpected?
+10.10.130.253
+
+At what time is the first connection made from this IP to the docker registry?
+29/Oct/2024:10:06:33 +0000
+
+At what time is the updated malicious image pushed to the registry?
+29/Oct/2024:12:34:28 +0000
+
+What is the value stored in the "pull-creds" secret?
+{"auths":{"http://docker-registry.nicetown.loc:5000":{"username":"mr.nice","password":"Mr.N4ughty","auth":"bXIubmljZTpNci5ONHVnaHR5"}}}
+
