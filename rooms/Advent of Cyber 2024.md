@@ -243,3 +243,14 @@ At what time is the updated malicious image pushed to the registry?
 What is the value stored in the "pull-creds" secret?
 {"auths":{"http://docker-registry.nicetown.loc:5000":{"username":"mr.nice","password":"Mr.N4ughty","auth":"bXIubmljZTpNci5ONHVnaHR5"}}}
 
+Crack the hash value stored in hash1.txt. What was the password?
+fluffycat12
+
+What is the flag at the top of the private.pdf file?
+THM{do_not_GET_CAUGHT}
+
+What is the flag?
+THM{Ligh75on-day54ved}
+
+What is the flag you get at the end of the survey? 
+THM{we_will_be_back_in_2025}
