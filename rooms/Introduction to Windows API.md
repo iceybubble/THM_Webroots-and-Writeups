@@ -86,7 +86,6 @@ What Win32 API call is used to obtain a handle from the pseudo handle in the key
 GetModuleHandle
 ```
 
-
 ```
 What Win32 API call is used unset the hook on our current process in the keylogger sample?
 UnhookWindowsHookEx
